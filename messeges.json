@@ -1,0 +1,23 @@
+{
+    "Enter amount to deposit: ": ["Enter amount to deposit: ", "Введите сумму для депозита: ", "Qo'shmoqchi bo'lgan summani kiriting: "],
+    "Enter amount to withdraw: ": ["Enter amount to withdraw: ", "Введите сумму для снятия: ", "Yechmoqchi bo'lgan summani kiriting: "],
+    "Program ended.": ["Program ended.", "Программа завершена.", "Dastur tugatildi."],
+    "Invalid choice, please try again.": ["Invalid choice, please try again.", "Неверный выбор, попробуйте еще раз.", "Noto'g'ri tanlov, iltimos qaytadan urinib ko'ring."],
+    "Your balance is: ": ["Your balance is: ", "Ваш баланс: ", "Sizning balansingiz: "],
+    "Amount added: ": ["Amount added: ", "Сумма добавлена: ", "Summangiz qo'shildi: "],
+    "Amount withdrawn: ": ["Amount withdrawn: ", "Сумма снята: ", "Summangiz yechildi: "],
+    "Insufficient funds or invalid amount.": ["Insufficient funds or invalid amount.", "Недостаточно средств или недействительная сумма.", "Yetarli mablag' yoki noto'g'ri miqdor."],
+    "Password successfully changed.": ["Password successfully changed.", "Пароль успешно изменен.", "Parol muvaffaqiyatli o'zgartirildi."],
+    "Enter your choice: ": ["Enter your choice: ", "Введите ваш выбор: ", "Tanlovingizni kiriting: "],
+    "Correct!": ["Correct!", "Правильный!", "To'g'ri!"],
+    "Invalid password.": ["Invalid password.", "Неверный пароль.", "Noto'g'ri parol."],
+    "The password is incorrect!": ["The password is incorrect!", "Пароль неверный!", "Parol noto'g'ri!"],
+    "Enter password: ": ["Enter password: ", "Введите пароль: ", "Parolni kiriting: "],
+    "Enter old password: ": ["Enter old password: ", "Введите старый пароль: ", "Eski parolni kiriting: "],
+    "Enter new password: ": ["Enter new password: ", "Введите новый пароль: ", "Yangi parolni kiriting: "],
+    "SMS notification enabled.": ["SMS notification enabled.", "SMS уведомления включены.", "SMS xabar yoqildi."],
+    "SMS notification disabled.": ["SMS notification disabled.", "SMS уведомления отключены.", "SMS xabar o'chirildi."],
+    "Choose utility service: ": ["Choose utility service: ", "Выберите коммунальную услугу: ", "Kommunal xizmatni tanlang: "],
+    "Enter choice: ": ["Enter choice: ", "Введите ваш выбор: ", "Tanlovingizni kiriting: "],
+    "Enter amount to pay: ": ["Enter amount to pay: ", "Введите сумму для оплаты: ", "To'lov miqdorini kiriting: "]
+}
